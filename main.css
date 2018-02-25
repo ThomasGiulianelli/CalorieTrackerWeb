@@ -1,0 +1,34 @@
+.banner {
+    position: relative;
+    background-color: #8bd6d2;
+    background: radial-gradient(white,#8bd6d2);
+    text-align: center;
+    margin: 0 auto;
+
+    max-width: 100%;
+    font-family:serif;
+    font-size: 2em;
+
+}
+
+.text {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    font-size:3vw;
+    font-family: 'Overlock SC'
+    color: #0f1a20;
+}
+
+article { 
+    text-align: center;
+    padding: 1% 15%;
+}
+
+.maintext {
+    background-color: #ffd275;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 2% 10%;
+    font-size: 1.5em;
+}
